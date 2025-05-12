@@ -21,6 +21,7 @@ Value Function: Ước tính phần thưởng dài hạn nếu làm theo một c
 ==> Mục tiêu của học tăng cường là huấn luyện agent để tìm ra chính sách tối ưu, nhằm tối đa hóa tổng phần thưởng kỳ vọng qua thời gian (còn gọi là return).
 
 2. Một số thuật toán phổ biến trong RL:
+
 Dynamic Programming (Lập trình động) – như Value Iteration, Policy Iteration.
 
 Monte Carlo Methods
@@ -29,7 +30,8 @@ Temporal Difference (TD) Learning – như Q-Learning, SARSA.
 
 Deep Reinforcement Learning – ví dụ: Deep Q-Networks (DQN), Policy Gradient, Actor-Critic,…
 
-3. Ứng dụng thực tế: 
+3. Ứng dụng thực tế:
+
 Trò chơi (ví dụ: AlphaGo, Dota2, StarCraft)
 
 Robotics (robot tự học cách đi/làm việc)
