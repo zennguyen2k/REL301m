@@ -2,7 +2,9 @@
 NguyenVanCuong - QS170119
 1. Giới thiệu cơ bản về Reinforcement Learning
 Reinforcement Learning (Học tăng cường) là một nhánh của Machine Learning, tập trung vào cách một tác nhân (agent) học cách đưa ra quyết định thông qua tương tác với môi trường để tối đa hóa phần thưởng tích lũy theo thời gian.
-* Những khái niệm chính cần biết:
+
+- Những khái niệm chính cần biết:
+
 Agent (Tác nhân): Thực thể ra quyết định (ví dụ: robot, chương trình máy tính).
 
 Environment (Môi trường): Nơi mà agent tương tác (ví dụ: một trò chơi, robot di chuyển trong phòng).
