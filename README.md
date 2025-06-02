@@ -5,7 +5,7 @@ Reinforcement Learning (Học tăng cường) là một nhánh của Machine Lea
 
 - Những khái niệm chính cần biết:
 
-Agent (Tác nhân): Thực thể ra quyết định (ví dụ: robot, chương trình máy tính).
+Agent (Tác tử): Thực thể ra quyết định (ví dụ: robot, chương trình máy tính).
 
 Environment (Môi trường): Nơi mà agent tương tác (ví dụ: một trò chơi, robot di chuyển trong phòng).
 
