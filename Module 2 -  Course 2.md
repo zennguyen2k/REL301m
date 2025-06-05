@@ -15,7 +15,8 @@ Kết hợp ưu điểm của Monte Carlo (học từ trải nghiệm) và Dynam
 
 Khả năng học trực tuyến (online learning), không cần chờ đến cuối mỗi tập (episode) như Monte Carlo.
 2. Thuật toán TD(0) cho Dự đoán
-TD(0) là phiên bản đơn giản nhất của TD Learning, cập nhật giá trị trạng thái sau mỗi bước
+TD(0) là phiên bản đơn giản nhất của TD Learning, cập nhật giá trị trạng thái sau mỗi bước: ![image](https://github.com/user-attachments/assets/aa2569bd-5d2d-47f7-9814-afa596efaf0d)
+
 3. So sánh TD Learning với Monte Carlo và Dynamic Programming
 a/ TD vs. Monte Carlo:
 TD cập nhật giá trị sau mỗi bước, trong khi Monte Carlo cần chờ đến cuối tập.
