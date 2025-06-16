@@ -16,11 +16,11 @@
    - Mang lại khả năng khái quát hóa tốt, nhưng đòi hỏi nhiều feature khi tăng kích thước trạng thái 
 
  2.2 Tile Coding
-    - Mở rộng coarse coding: dùng nhiều bộ lưới (tilings) chồng lên nhau, mỗi bộ dịch lệch.
+   - Mở rộng coarse coding: dùng nhiều bộ lưới (tilings) chồng lên nhau, mỗi bộ dịch lệch.
 
-    - Feature kết hợp giữa các tilings, giúp đạt tính biểu diễn hiệu quả hơn.
+   - Feature kết hợp giữa các tilings, giúp đạt tính biểu diễn hiệu quả hơn.
 
-    - Thường ứng dụng trong môi trường liên tục như Cart-Pole hoặc Mountain Car . 
+   - Thường ứng dụng trong môi trường liên tục như Cart-Pole hoặc Mountain Car . 
 
  2.3 Neural Networks
    - Sử dụng NN để tự học representation thông qua backpropagation.
