@@ -23,13 +23,13 @@
     - Thường ứng dụng trong môi trường liên tục như Cart-Pole hoặc Mountain Car . 
 
  2.3 Neural Networks
-    - Sử dụng NN để tự học representation thông qua backpropagation.
+   - Sử dụng NN để tự học representation thông qua backpropagation.
 
-    - Cho phép mô hình hóa mối quan hệ phi tuyến giữa trạng thái và giá trị.
+   - Cho phép mô hình hóa mối quan hệ phi tuyến giữa trạng thái và giá trị.
 
-    - Chiến thuật tối ưu gồm: gradient descent, tối ưu sâu (deep), các kỹ thuật như batch norm, regularization .
+   - Chiến thuật tối ưu gồm: gradient descent, tối ưu sâu (deep), các kỹ thuật như batch norm, regularization .
 
-    - Module bao gồm hướng dẫn từng bước về: “What is a Neural Network?”, “Deep Neural Networks”, “Gradient Descent for Training Neural Networks”, “Optimization Strategies for NNs”
+   - Module bao gồm hướng dẫn từng bước về: “What is a Neural Network?”, “Deep Neural Networks”, “Gradient Descent for Training Neural Networks”, “Optimization Strategies for NNs”
 
 3. Kết luận. 
 
