@@ -11,16 +11,16 @@
         - Sử dụng thuật toán như REINFORCE, tận dụng gradient của kỳ vọng reward để cập nhật trực tiếp các tham số chính sách.
     
     2.2 Actor‑Critic
-        - Actor phụ trách điều chỉnh chính sách, critic đánh giá hành động bằng hàm giá trị.
+      - Actor phụ trách điều chỉnh chính sách, critic đánh giá hành động bằng hàm giá trị.
 
-        - Kết hợp giữa policy gradient và TD learning, giúp giảm độ phương sai và cải thiện hiệu quả học.
+      - Kết hợp giữa policy gradient và TD learning, giúp giảm độ phương sai và cải thiện hiệu quả học.
     
     2.3 Hành động và trạng thái liên tục
-        - Học policy dạng phân phối, ví dụ Gaussian policy, thích hợp cho môi trường với hành động liên tục.
+      - Học policy dạng phân phối, ví dụ Gaussian policy, thích hợp cho môi trường với hành động liên tục.
 
-        - Triển khai trên các bài toán thực tế như robot control hoặc environment có state liên tục.
+      - Triển khai trên các bài toán thực tế như robot control hoặc environment có state liên tục.
     2.4 Ứng dụng thực tế
-        - Programming assignment: Average Reward Softmax Actor-Critic using Tile-coding (~180 phút), giúp bạn thực hành kỹ thuật Actor-Critic trong môi trường có action liên tục
+      - Programming assignment: Average Reward Softmax Actor-Critic using Tile-coding (~180 phút), giúp bạn thực hành kỹ thuật Actor-Critic trong môi trường có action liên tục
 
 3. Kết luận.
     - Không cần value function: học trực tiếp policy giúp đơn giản hóa (không cần ước lượng Q).
